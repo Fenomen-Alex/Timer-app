@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Timer-app/static/css/main.d2ce90d3.chunk.css",
+    "main.js": "/Timer-app/static/js/main.7289ad96.chunk.js",
+    "main.js.map": "/Timer-app/static/js/main.7289ad96.chunk.js.map",
+    "runtime-main.js": "/Timer-app/static/js/runtime-main.1d3cf59e.js",
+    "runtime-main.js.map": "/Timer-app/static/js/runtime-main.1d3cf59e.js.map",
+    "static/js/2.85743ade.chunk.js": "/Timer-app/static/js/2.85743ade.chunk.js",
+    "static/js/2.85743ade.chunk.js.map": "/Timer-app/static/js/2.85743ade.chunk.js.map",
+    "index.html": "/Timer-app/index.html",
+    "precache-manifest.66dd17db1fdae0f4635d12f2fbbd0c01.js": "/Timer-app/precache-manifest.66dd17db1fdae0f4635d12f2fbbd0c01.js",
+    "service-worker.js": "/Timer-app/service-worker.js",
+    "static/css/main.d2ce90d3.chunk.css.map": "/Timer-app/static/css/main.d2ce90d3.chunk.css.map",
+    "static/js/2.85743ade.chunk.js.LICENSE.txt": "/Timer-app/static/js/2.85743ade.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d3cf59e.js",
+    "static/js/2.85743ade.chunk.js",
+    "static/css/main.d2ce90d3.chunk.css",
+    "static/js/main.7289ad96.chunk.js"
+  ]
+}
